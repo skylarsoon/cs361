@@ -18,4 +18,4 @@ B. To RECEIVE the data, your program must read pipeline.txt after the user has f
 
 C. UML Diagram:
 
-![Link to diagram]([http://url/to/img.png](https://ibb.co/S6MVCCk)https://ibb.co/S6MVCCk)
+![Link to diagram]((https://ibb.co/S6MVCCk)https://ibb.co/S6MVCCk)
