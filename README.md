@@ -18,4 +18,4 @@ B. To RECEIVE the data, your program must read pipeline.txt after the user has f
 
 C. UML Diagram:
 
-![Link to diagram](https://ibb.co/S6MVCCk)
+![Link to diagram](https://drive.google.com/file/d/1mL19Cjs_XQ1fnS7EkYVn2CFD_O11JFM2/view?usp=sharing)
